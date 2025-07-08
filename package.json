@@ -1,0 +1,22 @@
+{
+  "name": "flutter-dev-server",
+  "version": "1.0.0",
+  "description": "Development server for Flutter project",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "install": "echo 'Flutter project detected. Please install Flutter SDK to build the project properly.'"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "flutter",
+    "development",
+    "server"
+  ],
+  "author": "",
+  "license": "MIT"
+}
