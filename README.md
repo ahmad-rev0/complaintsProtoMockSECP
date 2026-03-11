@@ -1,4 +1,4 @@
-## Frontend developed while interning at SECP.
+## Frontend developed with Flutter while interning at SECP.
 
 ## License
 All Rights Reserved.
